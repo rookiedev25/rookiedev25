@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rookiedev25
+- 👋 Hi, I’m @rookiedev25; Find me here: https://rookiedev25.github.io/my-portfolio/
 - 👀 I’m interested in learning JavaScript and work on REACT-JS projects
 - 🌱 I’m currently learning to get start with Web-development terminologies, trying to reach advanced JS
 - 💞️ I’m looking to collaborate on any utilities developed using these technologies
